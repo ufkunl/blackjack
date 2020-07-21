@@ -1,3 +1,3 @@
 # blackjack
 
-![alt text](https://github.com/ufkunl/Stack/blob/master/Group%209.png?raw=true)
+![alt text](https://github.com/ufkunl/blackjack/blob/master/Screenshot_10.png?raw=true)
