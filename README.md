@@ -4,3 +4,5 @@
 
 
 Generic class yazma ile ilgili bir birikimim var ancak bu tarz bir soru karşısında tam olarak ne yapabileceğimi bilemedim. Biraz araştırdıktan sonra bu oyun için bir card modeli oluşturdum. Oyun oynanırkenki gerekli olan method ve özellikleri belirtmeye çalıştım.
+
+Player modelini Hand modelinde türeterek bir oyun oynanırken gerçekleşecek methodları kullanmasını sağladım.
